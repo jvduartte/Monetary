@@ -1,0 +1,30 @@
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\Financial Monetary Vision.staticwebassets.runtime.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\Financial Monetary Vision.exe
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\Financial Monetary Vision.deps.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\Financial Monetary Vision.runtimeconfig.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\Financial Monetary Vision.dll
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\bin\Debug\net8.0\Financial Monetary Vision.pdb
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.AssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets\msbuild.Financial Monetary Vision.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets\msbuild.build.Financial Monetary Vision.props
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Financial Monetary Vision.props
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Financial Monetary Vision.props
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\scopedcss\bundle\Financial Monetary Vision.styles.css
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\scopedcss\projectbundle\Financial Monetary Vision.bundle.scp.css
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.dll
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\refint\Financial Monetary Vision.dll
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.pdb
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.genruntimeconfig.cache
+C:\Users\Aluno Noite\Desktop\Financial Monetary Vision\obj\Debug\net8.0\ref\Financial Monetary Vision.dll
