@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9843DF6F-58B6-4346-9EE2-5047B8A24954}|Financial Monetary Vision.csproj|c:\\users\\aluno noite\\desktop\\financial monetary vision\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9843DF6F-58B6-4346-9EE2-5047B8A24954}|Financial Monetary Vision.csproj|c:\\users\\aluno noite\\documents\\monetary\\financial monetary vision\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9843DF6F-58B6-4346-9EE2-5047B8A24954}|Financial Monetary Vision.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9843DF6F-58B6-4346-9EE2-5047B8A24954}|Financial Monetary Vision.csproj|c:\\users\\aluno noite\\desktop\\financial monetary vision\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9843DF6F-58B6-4346-9EE2-5047B8A24954}|Financial Monetary Vision.csproj|c:\\users\\aluno noite\\documents\\monetary\\financial monetary vision\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9843DF6F-58B6-4346-9EE2-5047B8A24954}|Financial Monetary Vision.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T14:03:31.78Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T12:50:56.218Z",
+              "WhenOpened": "2024-07-24T11:32:51.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAE0CAAAAAAAAAAAAAJIDAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T14:03:31.78Z",
               "EditorCaption": ""
             }
           ]

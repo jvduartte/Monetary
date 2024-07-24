@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Financial Monetary Vision.csproj": {}
+    "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Financial Monetary Vision.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Financial Monetary Vision.csproj": {
+    "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Financial Monetary Vision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Financial Monetary Vision.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Financial Monetary Vision.csproj",
         "projectName": "Financial Monetary Vision",
-        "projectPath": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\Financial Monetary Vision.csproj",
+        "projectPath": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\Financial Monetary Vision.csproj",
         "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno Noite\\Desktop\\Financial Monetary Vision\\obj\\",
+        "outputPath": "C:\\Users\\Aluno Noite\\Documents\\Monetary\\Financial Monetary Vision\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",

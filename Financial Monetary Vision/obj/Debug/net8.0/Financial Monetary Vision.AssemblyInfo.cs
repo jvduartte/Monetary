@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Financial Monetary Vision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24651f359aafcccf39a0b329b52399142190aa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Financial Monetary Vision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Financial Monetary Vision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
