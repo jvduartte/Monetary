@@ -1,64 +1,5 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Title -->
-    <title> EMPREENDIMENTOS/JVD.LTDA</title>
-
-    <!-- Font-Awesome CSS -->    
-   
-    <style>
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #f9f9f9;
-            min-width: 200px;
-            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-            z-index: 1;
-            padding: 8px;
-            border-radius: 3%;
-            right: 0;
-            /* Alinha o submenu à direita */
-        }
-
-        .dropdown-content a {
-            color: black;
-            padding: 7px;
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            margin: 5px;            
-            padding: 18px;       
-            border-radius: 3%;
-        }
-
-        .dropdown-content a:hover {
-            background-color: #ddd;
-            color: #374351!important ;
-            border: #d2ba96 solid 2px;
-            border-radius: 3%;
-            /* Muda a cor da letra para azul ao passar o mouse */
-        }
-       
-
-       
-
-        
-    </style>
-
-</head>
-
+﻿
 <body>
-
 
     <!-------------------- Scroll-Top Area (Start) -------------------->
 
@@ -66,8 +7,6 @@
         <i class="fas fa-angle-up"></i>
     </a>
     <!-------------------- Scroll-Top Area (End) -------------------->
-
-
 
     <!-------------------- Header Area (Start) -------------------->
     <header class="header">
@@ -81,85 +20,85 @@
 
         <!-- Navbar -->
         <nav class="navbar" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fas fa-home fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#home" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif;">INICIO</a>
-            </span>
-
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fas fa-info-circle fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#about" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif ;">SOBRE</a>
-            </span>
-
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fas fa-gavel fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#service" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif ;">SERVIÇO</a>
-            </span>
-
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fas fa-window-restore fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#portfolio" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">PORTIFOLIO</a>
-            </span>
-
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fa fa-users fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#testimonial" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif;">DEPOIMENTO</a>
-            </span>
-
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fa fa-file fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#blog" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">NOTICIA</a>
-            </span>
-
-            <span style="display: flex; align-items: center; margin-right: 20px;">
-                <i class="fa fa-phone-square fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
-                <a href="#contact" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">CONTATO</a>
-            </span>
-            <div class="dropdown" style="position: relative; display: inline-block;">
                 <span style="display: flex; align-items: center; margin-right: 20px;">
-                    <i class="fa fa-user" aria-hidden="true" style="color: white;"></i>
-                    <a href="Login.html" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">LOGIN</a>
+                    <i class="fas fa-home fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#home" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif;">INICIO</a>
                 </span>
-                <div class="dropdown-content"
-                    style="display: none; position: absolute; background-color: #374351; width: 200px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; padding: 8px; border-radius: 3%;">
-                    <a href="UsuarioIndex.html"
-                        style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
-                        <i class="fa fa-users" aria-hidden="true" style="margin-right: 8px;"></i>
-                        Usuarios
-                    </a>
-                    <a href="AgendamentoIndex.html"
-                        style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
-                        <i class="fa fa-calendar" aria-hidden="true" style="margin-right: 8px;"></i>
-                        Agendamento Admin
-                    </a>
-                    <a href="AgendamentoIndexCliente.html"
-                        style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
-                        <i class="fa fa-book" aria-hidden="true"></i>
-                        Agendamento User
-                    </a>
 
-                    <a href="CadastroAgendamento.html"
-                        style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
-                        <i class="fa fa-print" aria-hidden="true"></i>
-                        Cadastro Agendamento
-                    </a>
-                    <a href="ServicoIndex.html"
-                        style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
-                        <i class="fa fa-cogs" aria-hidden="true"></i>
-                        Serviços
-                    </a>
+                <span style="display: flex; align-items: center; margin-right: 20px;">
+                    <i class="fas fa-info-circle fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#about" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif ;">SOBRE</a>
+                </span>
 
-                    <a href="#logout"
-                        style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
-                        <i class="fa fa-folder" aria-hidden="true"></i>
+                <span style="display: flex; align-items: center; margin-right: 20px;">
+                    <i class="fas fa-gavel fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#service" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif ;">SERVIÇO</a>
+                </span>
+
+                <span style="display: flex; align-items: center; margin-right: 20px;">
+                    <i class="fas fa-window-restore fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#portfolio" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">PORTIFOLIO</a>
+                </span>
+
+                <span style="display: flex; align-items: center; margin-right: 20px;">
+                    <i class="fa fa-users fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#testimonial" style="margin-left: 10px; font-family:  'Times New Roman', Times, serif;">DEPOIMENTO</a>
+                </span>
+
+                <span style="display: flex; align-items: center; margin-right: 20px;">
+                    <i class="fa fa-file fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#blog" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">NOTICIA</a>
+                </span>
+
+                <span style="display: flex; align-items: center; margin-right: 20px;">
+                    <i class="fa fa-phone-square fa-lg" aria-hidden="true" style="color: #d3cfc3;"></i>
+                    <a href="#contact" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">CONTATO</a>
+                </span>
+                <div class="dropdown" style="position: relative; display: inline-block;">
+                    <span style="display: flex; align-items: center; margin-right: 20px;">
+                        <i class="fa fa-user" aria-hidden="true" style="color: white;"></i>
+                        <a href="/Usuario/Login" style="margin-left: 10px; font-family: 'Times New Roman', Times, serif;">LOGIN</a>
+                    </span>
+                    <div class="dropdown-content"
+                        style="display: none; position: absolute; background-color: #374351; width: 200px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; padding: 8px; border-radius: 3%;">
+                        <a href="UsuarioIndex.html"
+                            style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
+                            <i class="fa fa-users" aria-hidden="true" style="margin-right: 8px;"></i>
+                            Usuarios
+                        </a>
+                        <a href="AgendamentoIndex.html"
+                            style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
+                            <i class="fa fa-calendar" aria-hidden="true" style="margin-right: 8px;"></i>
+                            Agendamento Admin
+                        </a>
+                        <a href="AgendamentoIndexCliente.html"
+                            style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
+                            <i class="fa fa-book" aria-hidden="true"></i>
+                            Agendamento User
+                        </a>
+
+                        <a href="CadastroAgendamento.html"
+                            style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
+                            <i class="fa fa-print" aria-hidden="true"></i>
+                            Cadastro Agendamento
+                        </a>
+                        <a href="ServicoIndex.html"
+                            style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
+                            <i class="fa fa-cogs" aria-hidden="true"></i>
+                            Serviços
+                        </a>
+
+                        <a href="#logout"
+                            style=" padding: 7px; text-decoration: none; display: flex; align-items: center; margin: 5px;">
+                            <i class="fa fa-folder" aria-hidden="true"></i>
                        
-                        Relatório
-                    </a>
+                            Relatório
+                        </a>
+                    </div>
                 </div>
-            </div>
-
+        </nav>
             <!-- Menubar -->
-            <div class="fas fa-bars" id="menu-btn"></div>
+        <div class="fas fa-bars" id="menu-btn"></div>
 
     </header>
     <!-------------------- Header Area (End) -------------------->
@@ -958,4 +897,3 @@
     </script>
 </body>
 
-</html>
