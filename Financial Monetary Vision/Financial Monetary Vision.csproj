@@ -7,4 +7,20 @@
     <RootNamespace>Financial_Monetary_Vision</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Views\Agendamento\Agendamento.cshtml" />
+    <Content Remove="Views\Agendamento\CadastroAgendamento.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Servicos\ServicoIndex.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Usuario\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

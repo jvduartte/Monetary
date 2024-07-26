@@ -18,8 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Agendamento/Agendamentocadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cQWdlbmRhbWVudG9jYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Agendamento/AgendamentoUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cQWdlbmRhbWVudG9Vc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Agendamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Servicos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydmljb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Shared/Error.cshtml]
@@ -32,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Usuario/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Usuario/Login.cshtml]

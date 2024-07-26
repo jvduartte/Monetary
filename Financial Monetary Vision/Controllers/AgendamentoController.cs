@@ -4,23 +4,27 @@ using System.Diagnostics;
 
 namespace Financial_Monetary_Vision.Controllers
 {
-    public class UsuarioController : Controller
+    public class AgendamentoController : Controller
     {
-        private readonly ILogger<UsuarioController> _logger;
+        private readonly ILogger<AgendamentoController> _logger;
 
-        public UsuarioController(ILogger<UsuarioController> logger)
+        public AgendamentoController(ILogger<AgendamentoController> logger)
         {
             _logger = logger;
         }
+
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Login()
+
+        public IActionResult AgendamentoCadastro()
         {
             return View();
         }
-        public IActionResult Cadastro()
+
+
+        public IActionResult AgendamentoUsuario()
         {
             return View();
         }
