@@ -90,3 +90,5 @@ C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision\obj\Debug\net8.0
 C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.pdb
 C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision\obj\Debug\net8.0\Financial Monetary Vision.genruntimeconfig.cache
 C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision\obj\Debug\net8.0\ref\Financial Monetary Vision.dll
+C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutCadastro.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\Monetary\Financial Monetary Vision\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGerenciamento.cshtml.rz.scp.css

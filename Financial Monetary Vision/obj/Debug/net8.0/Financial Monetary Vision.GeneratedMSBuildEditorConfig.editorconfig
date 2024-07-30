@@ -69,3 +69,11 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5cnpceeo3r
+
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Shared/_LayoutCadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-sveaof0hgy
+
+[C:/Users/Aluno Noite/Desktop/Monetary/Financial Monetary Vision/Views/Shared/_LayoutGerenciamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHZXJlbmNpYW1lbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-pp1ypgjsl0
