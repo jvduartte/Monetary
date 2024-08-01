@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZExGJNLZIMS0VgZnrx/pi/GvSfQE/RYVwXoyn+Q7Rkw=",
+  "Hash": "EHKDjSQTbizJ9inCMCkRebDNAjyj4Zd11TbYy/AdCEM=",
   "Source": "Financial Monetary Vision",
   "BasePath": "_content/Financial Monetary Vision",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\Monetary\\Financial Monetary Vision\\wwwroot\\css\\submenu.css",
+      "SourceId": "Financial Monetary Vision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\Monetary\\Financial Monetary Vision\\wwwroot\\",
+      "BasePath": "_content/Financial Monetary Vision",
+      "RelativePath": "css/submenu.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\submenu.css"
     },
     {
       "Identity": "C:\\Users\\Aluno Noite\\Desktop\\Monetary\\Financial Monetary Vision\\wwwroot\\favicon.ico",
